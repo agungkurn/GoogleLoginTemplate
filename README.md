@@ -1,2 +1,2 @@
 # Simple Login
-Contains app logo, app name, and Google sign in button
+<img src="Screenshot_1584363473.png"/>
